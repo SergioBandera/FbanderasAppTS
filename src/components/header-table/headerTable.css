@@ -1,0 +1,8 @@
+.container-header-table {
+  display: flex;
+  justify-content: space-between;
+}
+.btn-group {
+  display: flex;
+  gap: 1rem;
+}
